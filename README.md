@@ -1,7 +1,9 @@
 # 13가지 예제로 배우는 CSS Flex &amp; Grid 핵심 기능 강의 🎨
 
+![](assets/cover.jpg)
+
 강의는 현재 인프런 독점 강의로 제공하고 있습니다.  
-[이곳](https://www.inflearn.com/course/temp_327671?inst=dc6256fb)에서 수강하실 수 있습니다.
+[이곳](https://www.inflearn.com/course/플렉스-그리드-예제?inst=dc6256fb)에서 수강하실 수 있습니다.
 
 ## 이미지 저작권 안내
 
